@@ -1,5 +1,4 @@
 # Hi there, Matteus here 👋
-___
 
 - 🔭 I am currently working on some school projects.
 - 🌱 I am currently deepening my knowledge @Medieinstitutet to become a blockchain developer.
