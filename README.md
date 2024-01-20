@@ -1,6 +1,6 @@
 # Hi there, Matteus here 👋
 
-I am a student diving into the fascinating world of Blockchain Development. Coding is my jam, and problem-solving is where I shine! Super keen on soaking up knowledge and jumping into cool, innovative projects. Currently on the lookout for exciting internships in the blockchain realm ⛓️ Let's make some tech magic happen! ✨🚀
+I am a student diving into the fascinating world of Blockchain Development. Super keen on soaking up knowledge and jumping into cool, innovative projects. Currently on the lookout for exciting internships 👨🏻‍💻 Let's make some tech magic happen! ✨🚀
 
 - 🔭 I am currently working on some school projects.
 - 🌱 I am currently deepening my knowledge @Medieinstitutet to become a blockchain developer.
