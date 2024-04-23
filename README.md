@@ -1,6 +1,6 @@
 # Hi there, Matteus here 👋
 
-Hey there! 👋 I am a student currently exploring the exciting world of JavaScript and blockchain development. I am actively seeking internship opportunities to gain hands-on experience and contribute to innovative projects.
+I am a student currently exploring the exciting world of JavaScript and blockchain development. I am actively seeking internship opportunities to gain hands-on experience and contribute to innovative projects.
 
 Looking for an internship during the following periods:
 <br>**Period 1:** 2024-09-16 - 2024-11-22 (10 weeks)
