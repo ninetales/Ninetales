@@ -7,5 +7,5 @@ Highly motivated to soak up knowledge and jump into real-world projects. As part
 ------------------------------------
 - 🔭 I am currently working on some school projects.
 - 🌱 I am currently deepening my knowledge @Medieinstitutet to become a Javascript/Blockchain developer.
-- 📫 How to reach me: By filling in the form on my [website](https://www.northcrisp.com) or use the provided information on my CV. [Linkedin](https://www.linkedin.com/in/matteus-g/) works as well.
+- 📫 How to reach me:Use the provided information on my CV. [Linkedin](https://www.linkedin.com/in/matteus-g/) works as well.
 - ⚡ Fun fact: I have played Tennis for many years when I was younger, both recreationally and competitively 🎾 I also practiced some Karate 🥋
