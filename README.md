@@ -1,11 +1,11 @@
 # Hi there, Matteus here 👋
 
-I am currently a student at Medieinstitutet, diligently pursuing a career as a Fullstack Developer specializing in MERN-stack and Blockchain. I am always open to explore and work with other programming languages and technologies.
+👨🏻‍💻 I am a fullstack developer with a recent graduation from Medieinstitutet, where I completed my studies with top marks and also wrapped up an internship at Trust Anchor Group where I received strong references for my contributions.
 
-Highly motivated to soak up knowledge and jump into real-world projects.
+💡 I enjoy building real-world solutions and learning through hands-on projects. I have experience working with MERN stack and Next.js, and while my background is in JavaScript technologies, I am tech-agnostic at heart — always up for learning the right tool for the job.
+
+🚀 I am eager to contribute, grow, and collaborate with others. Feel free to check out some of my projects!
 
 ------------------------------------
-- 🔭 Currently doing my internship before i graduate.
-- 🌱 I am currently deepening my knowledge @Medieinstitutet to become a Fullstack Developer with focus on MERN-stack and Blockchain.
-- 📫 How to reach me:Use the provided information on my CV. [Linkedin](https://www.linkedin.com/in/matteus-g/) works as well.
+- 📫 How to reach me: Use the provided information on my CV. [Linkedin](https://www.linkedin.com/in/matteus-g/) works as well.
 - ⚡ Fun fact: I have played Tennis for many years when I was younger, both recreationally and competitively 🎾 I also practiced some Karate 🥋
